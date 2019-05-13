@@ -40,5 +40,5 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/finalspee
 
 日志路径：/fs/server.log
 
-锐速替代品双边加速[FinalSpeed客户端下载及教程](https://www.91yun.co/archives/615) ，Openvz福音
+锐速替代品双边加速[FinalSpeed客户端下载及教程](https://www.91yun.co/archives/615) ，Openvz福音\
 udp2raw+finalspeed 加速tcp流量 Step by Step 教程[变相使openvz Tcp流量加速](https://github.com/wangyu-/udp2raw-tunnel/blob/master/doc/finalspeed_step_by_step.md)
